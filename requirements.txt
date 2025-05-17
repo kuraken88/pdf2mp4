@@ -1,0 +1,5 @@
+python-pptx>=0.6.21
+PyMuPDF>=1.21.1
+gTTS>=2.3.2
+progress>=1.6
+comtypes>=1.2.0 
